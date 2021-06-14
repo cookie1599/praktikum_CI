@@ -1,0 +1,1 @@
+<h1>Hallo Teman <?php echo $nama?></h1>
